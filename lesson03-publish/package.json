@@ -1,0 +1,25 @@
+{
+  "name": "firsttestnodepack",
+  "version": "1.0.0",
+  "description": "\"This is first node module pack for initial course.\"",
+  "main": "app.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/DhruboB/NodeCourses.git"
+  },
+  "keywords": [
+    "Getting",
+    "Started",
+    "with",
+    "Node"
+  ],
+  "author": "Dhrubo",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/DhruboB/NodeCourses/issues"
+  },
+  "homepage": "https://github.com/DhruboB/NodeCourses#readme"
+}
