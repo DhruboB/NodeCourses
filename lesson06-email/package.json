@@ -1,0 +1,27 @@
+{
+  "name": "lesson06-email",
+  "version": "1.0.0",
+  "description": "This is a simple emailing framework to send emails from custom project",
+  "main": "main.js",
+  "scripts": {
+    "test": "test testMain.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/DhruboB/NodeJSCourses.git"
+  },
+  "keywords": [
+    "nodemailer",
+    "email"
+  ],
+  "author": "Dhrubo",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/DhruboB/NodeJSCourses/issues"
+  },
+  "homepage": "https://github.com/DhruboB/NodeJSCourses#readme",
+  "dependencies": {
+    "dotenv": "^5.0.1",
+    "nodemailer": "^4.6.2"
+  }
+}
