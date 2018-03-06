@@ -8,5 +8,9 @@ This project can be referred for source code used in NodeJS tutorial for CloudsT
 
 	lesson03-publish : How to publish node js module to npm public registry
 
-	lesson04-callback 	: What is Call back function and its adavantage ?
+	lesson04-events 	: Thsi project quickly demo how Node JS event can be trigered and responded accrodingly.
+	
+	lesson04-email 	: This small projects demonstrate how email can be sent from Node JS application.
+
+
 	
